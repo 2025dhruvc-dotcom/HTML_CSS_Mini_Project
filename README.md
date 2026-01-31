@@ -1,5 +1,6 @@
 # HTML_CSS_Mini_Project
 Tried to make a Digital Marketing Agency Website
+
 Home Page: 
 <img width="1710" height="1112" alt="Screenshot 2026-01-31 at 7 01 20 PM" src="https://github.com/user-attachments/assets/51ccdb66-e4af-482e-bf6e-f619fd9eabc5" />
 Blog Page: 
