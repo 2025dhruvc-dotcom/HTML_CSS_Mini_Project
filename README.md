@@ -12,4 +12,5 @@ Consulting Page:
 <img width="1710" height="1112" alt="Screenshot 2026-01-31 at 7 03 10 PM" src="https://github.com/user-attachments/assets/1390937e-327d-46bd-b0a6-a54304ec4bdf" />
 Pricing Page: 
 <img width="1710" height="1112" alt="Screenshot 2026-01-31 at 7 03 18 PM" src="https://github.com/user-attachments/assets/026071f7-3836-492c-a43d-f0dfd8e912fb" />
-
+Contact Page: (Newly Added)
+<img width="1710" height="1112" alt="Screenshot 2026-02-01 at 11 07 57 AM" src="https://github.com/user-attachments/assets/0e098319-8eab-458c-92ee-df40b797a09a" />
